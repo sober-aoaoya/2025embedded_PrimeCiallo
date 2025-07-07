@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    
+    <!-- 主题颜色 -->
+    <color name="primary">#FF6B6B</color>
+    <color name="primary_dark">#E55A5A</color>
+    <color name="accent">#4ECDC4</color>
+    <color name="accent_dark">#45B7D1</color>
+    
+    <!-- 文本颜色 -->
+    <color name="text_primary">#1A1A1A</color>
+    <color name="text_secondary">#666666</color>
+    <color name="text_hint">#888888</color>
+    
+    <!-- 背景颜色 -->
+    <color name="background_light">#F8F9FA</color>
+    <color name="background_card">#FFFFFF</color>
+    
+    <!-- 状态颜色 -->
+    <color name="success">#4CAF50</color>
+    <color name="warning">#FF9800</color>
+    <color name="error">#F44336</color>
+    <color name="info">#2196F3</color>
+</resources>
